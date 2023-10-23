@@ -1,0 +1,9 @@
+.backgroundlogin{
+  background: url('../../public/background.png') no-repeat center center fixed ; 
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+
+}
